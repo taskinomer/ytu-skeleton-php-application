@@ -1,0 +1,78 @@
+# git ls-files --others --exclude-from=.git/info/exclude
+
+
+# IntelliJ Idea generated files
+*.iml
+*.ipr
+*.iws
+.idea
+*plugin.xml
+
+# VI generated files
+.*.sw[a-z]
+*.un~
+Session.vim
+
+# IntelliJ Idea generated files
+*.iml
+*.ipr
+*.iws
+.idea
+*plugin.xml
+
+# VI generated files
+.*.sw[a-z]
+*.un~
+Session.vim
+
+# IntelliJ Idea generated files
+*.iml
+*.ipr
+*.iws
+.idea
+*plugin.xml
+
+# Eclipse generated files
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*~.nib
+.classpath
+.settings/
+.loadpath
+
+# Project generated files
+*.log
+*.patch
+*.ser
+logs/
+
+# Compression generated files
+*.zip
+*.gz
+*.tar
+*.rar
+*.7z
+
+# OS generated files
+*.pid
+*.swp
+*.tmp
+*.old
+*.backup
+*.diff
+
+# Windows generated files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux generated files
+*~
+.directory
+
+# SVN generated files
+.svn
